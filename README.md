@@ -49,6 +49,13 @@ npm run dev
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador. A página será recarregada conforme você faz alterações.
 
+<img width="721" height="725" alt="image" src="https://github.com/user-attachments/assets/2d8c1f89-167f-48b7-8500-526e20cab0c9" />
+
+<img width="752" height="465" alt="image" src="https://github.com/user-attachments/assets/fa110e5e-5632-4e75-9601-811e18d94bbc" />
+
+<img width="630" height="659" alt="image" src="https://github.com/user-attachments/assets/74f5691d-6f58-458a-9d45-4afa16739a90" />
+
+
 ## 📦 Tecnologias Utilizadas
 
 | Tecnologia | Versão | Propósito |
